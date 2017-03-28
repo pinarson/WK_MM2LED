@@ -22,5 +22,10 @@ MadMapper USB to LED - SYRDES LICENCE
 
 
 ## 2-Connect
-![alt text](WK_MM2LED/connect.jpeg "Arduino connection")
 
+
+
+## 3-Transfert Arduino code
+
+## 4-Follow instructions on MadMapper website
+http://www.madmapper.com/2015/09/30/arduino-led-strip-control-with-madmapper-2-1/
