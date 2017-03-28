@@ -22,4 +22,5 @@ MadMapper USB to LED - SYRDES LICENCE
 
 
 ## 2-Connect
+![alt text](WK_MM2LED/connect.jpeg "Arduino connection")
 
