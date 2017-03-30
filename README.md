@@ -1,7 +1,7 @@
 # WK_MM2LED
 MadMapper USB to LED - SYRDES LICENCE
 
-[img](madgif.gif)
+![img](madgif.gif)
 
 ## You need: 
 - A teensy 3.2
