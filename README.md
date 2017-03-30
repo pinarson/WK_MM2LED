@@ -1,6 +1,8 @@
 # WK_MM2LED
 MadMapper USB to LED - SYRDES LICENCE
 
+[img](madgif.gif)
+
 ## You need: 
 - A teensy 3.2
 - A digital LED strip WS2811
