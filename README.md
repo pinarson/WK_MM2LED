@@ -25,6 +25,7 @@ MadMapper USB to LED - SYRDES LICENCE
 
 ## 2-Connect
 
+![img](connect.png)
 
 
 ## 3-Transfert Arduino code
